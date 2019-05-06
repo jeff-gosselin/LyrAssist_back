@@ -1,24 +1,16 @@
-# README
+<h1>LyrAssist</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web application for writing song lyrics collaboratively.
 
-Things you may want to cover:
 
-* Ruby version
+## Purpose
 
-* System dependencies
+The goal of building this app was to learn more about connecting to a 3rd-party API.
 
-* Configuration
+## Built With
 
-* Database creation
+* [Ruby on Rails](https://rubyonrails.org/) - used for the backend (version 5.2.2)
+* [postgreSQL](https://www.postgresql.org/) - was the database used
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Frontend repo](https://github.com/jeff-gosselin/LyrAssist_front)
